@@ -15,7 +15,7 @@ const AboutPreview = () => {
           >
             <div className="aspect-w-16 aspect-h-12 rounded-lg overflow-hidden">
               <img
-                src="/src/assets/AboutPreview/architect-3979490_1280.jpg"
+                src="https://i.ibb.co/s9VW7GmV/architect-3979490-1280.jpg"
                 alt="C&C Ingeniería team"
                 className="w-full h-full object-cover"
               />

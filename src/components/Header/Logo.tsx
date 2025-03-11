@@ -5,7 +5,7 @@ const Logo: React.FC = () => {
   return (
     <Link to="/" className="flex items-center space-x-3">
       <img 
-        src="\src\assets\logo\Captura de pantalla 2025-03-05 154854.png" 
+        src="https://i.ibb.co/DPR2r6KC/Captura-de-pantalla-2025-03-05-154854.png" 
         alt="C&C Ingeniería Logo"
         className="w-17 h-17 object-contain"
       />

@@ -139,7 +139,7 @@ const HeroSection = () => {
             {/* Placeholder for a 3D model or image */}
             <div className="relative h-[500px] w-full rounded-2xl overflow-hidden border border-white/10 shadow-2xl">
               <img 
-                src="src\assets\hero\taps-956497_1280.jpg" 
+                src="https://i.ibb.co/ks0GmMpn/taps-956497-1280.jpg" 
                 alt="Proyecto de Ingeniería" 
                 className="w-full h-full object-cover"
               />

@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
           {/* Brand Column */}
           <div className="space-y-4">
             <img
-              src="/src/assets/logo/Captura de pantalla 2025-03-05 154854.png"
+              src="https://i.ibb.co/DPR2r6KC/Captura-de-pantalla-2025-03-05-154854.png"
               alt="C&C Ingeniería Logo"
               className="h-12 w-auto"
             />

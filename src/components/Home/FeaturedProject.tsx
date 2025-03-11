@@ -8,21 +8,21 @@ const projects = [
     title: 'Puente Metropolitano',
     category: 'Infraestructura Vial',
     description: 'Diseño y supervisión de un puente de 120 metros que conecta dos importantes áreas metropolitanas, mejorando significativamente el tráfico y reduciendo tiempos de traslado.',
-    image: '/src/assets/FeaturedProject/road-construction-3992_1280.jpg',
+    image: 'https://i.ibb.co/ZzgVCx78/road-construction-3992-1280.jpg',
   },
   {
     id: 2,
     title: 'Torre Corporativa Sustentable',
     category: 'Edificación Comercial',
     description: 'Proyecto de 25 pisos con certificación LEED Gold, incorporando tecnologías de ahorro energético y sistemas de captación de agua pluvial.',
-    image: '/src/assets/FeaturedProject/crane-325038_1280.jpg',
+    image: 'https://i.ibb.co/LzTs9H9G/crane-325038-1280.jpg',
   },
   {
     id: 3,
     title: 'Sistema de Tratamiento de Aguas',
     category: 'Ingeniería Hidráulica',
     description: 'Diseño e implementación de una planta de tratamiento de aguas residuales con capacidad para servir a una población de 50,000 habitantes.',
-    image: '/src/assets/FeaturedProject/construction-site-3302024_1280.jpg',
+    image: 'https://i.ibb.co/LbGKWRv/construction-site-3302024-1280.jpg',
   },
 ];
 
