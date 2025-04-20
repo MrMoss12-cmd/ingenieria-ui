@@ -35,7 +35,7 @@ const AboutPreview = () => {
             </h2>
             
             <p className="text-lg text-gray-600">
-              En C&C Ingeniería, combinamos experiencia técnica con innovación para 
+              En H&H Ingeniería, combinamos experiencia técnica con innovación para 
               ofrecer soluciones de ingeniería civil que superan las expectativas 
               de nuestros clientes.
             </p>

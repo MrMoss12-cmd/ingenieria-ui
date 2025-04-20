@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src="" 
-          alt="C&C Ingeniería" 
+          alt="H&H Ingeniería" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-[#255484]/90 to-black/70"></div>
@@ -58,7 +58,7 @@ const HeroSection = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <span className="text-sm font-medium text-[#76B0DE]">Ingeniería Civil de Excelencia</span>
+              <span className="text-sm font-medium text-[#76B0DE]">Ingeniería de Excelencia</span>
             </motion.div>
             
             <motion.h1 
@@ -76,7 +76,7 @@ const HeroSection = () => {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Soluciones innovadoras en ingeniería civil para proyectos que transforman el entorno urbano y mejoran la calidad de vida.
+              Soluciones innovadoras en ingeniería para proyectos que transforman el entorno urbano y mejoran la calidad de vida.
             </motion.p>
             
             <motion.div 

@@ -31,8 +31,8 @@ const Footer: React.FC = () => {
           {/* Brand Column */}
           <div className="space-y-4">
             <img
-              src="https://i.ibb.co/DPR2r6KC/Captura-de-pantalla-2025-03-05-154854.png"
-              alt="C&C Ingeniería Logo"
+              src="https://i.ibb.co/twP6nvXV/logo.jpg"
+              alt="H&H Ingeniería Logo"
               className="h-12 w-auto"
             />
             <p className="text-gray-300 text-sm">
@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             {/* Copyright */}
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} C&C Ingeniería. Todos los derechos reservados.
+              © {new Date().getFullYear()} H&H Ingeniería. Todos los derechos reservados.
             </p>
 
             {/* Social Links */}

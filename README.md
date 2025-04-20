@@ -1,54 +1,97 @@
-# React + TypeScript + Vite
+# H&H Ingeniería Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive website for H&H Ingeniería, showcasing our engineering services and projects.
 
-Currently, two official plugins are available:
+![Website Screenshot]([Website Screenshot](https://i.ibb.co/JRXb238W/screen1.png)
+![Website Screenshot]([Website Screenshot](https://i.ibb.co/QFt9YKjH/screen2.png)
+![Website Screenshot]([Website Screenshot](https://i.ibb.co/YFRwHZv4/screen3.png)
+![Website Screenshot]([Website Screenshot](https://i.ibb.co/B5T42RMS/screen4.png)
+![Website Screenshot]([Website Screenshot](https://i.ibb.co/fzYwSfXT/screen5.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- Modern and responsive design
+- Interactive UI components
+- Service showcase
+- Project portfolio
+- Contact information
+- Mobile-friendly navigation
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## 🛠️ Built With
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- React Router
+- React Icons
+
+## 📋 Prerequisites
+
+- Node.js (v14.0.0 or higher)
+- npm or yarn
+
+## ⚙️ Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/MrMoss12-cmd/ingenieria-ui.git
+```
+2. Install dependencies
+```bash
+npm install
+```
+3. Start the development server
+```bash
+npm start
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+## ## 🎨 Project Structure
+```plaintext
+src/
+├── assets/         # Static assets (images, fonts)
+├── components/     # Reusable components
+├── layouts/        # Layout components
+├── pages/          # Page components
+└── styles/         # Global styles
 ```
+
+## 🔧 Contributing
+The project uses Vite for development and building. Configuration can be modified in:
+
+- vite.config.ts
+- tailwind.config.js
+- tsconfig.json
+
+##  📱 Responsive Design
+The website is fully responsive and optimized for:
+- Mobile devices
+- Tablets
+- Desktop screens
+
+## 🌐 Browser Support
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## 👥 Contributing
+1. Fork the project
+2. Create your feature branch ( git checkout -b feature/AmazingFeature )
+3. Commit your changes ( git commit -m 'Add some AmazingFeature' )
+4. Push to the branch ( git push origin feature/AmazingFeature )
+5. Open a Pull Request
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details
+
+## 📞 Contact
+H&H Ingeniería
+- Website: www.hhingenieria.com
+- Email: contacto@hhingenieria.com
+
+## 🙏 Acknowledgments
+- React Icons
+- Tailwind CSS
+- Framer Motion
