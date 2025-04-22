@@ -87,8 +87,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 H&H Ingeniería
-- Website: www.hhingenieria.com
-- Email: contacto@hhingenieria.com
+- Website: www..com
+- Email: eliashigueraacosta@gmail.com
 
 ## 🙏 Acknowledgments
 - React Icons
